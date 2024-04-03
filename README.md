@@ -20,11 +20,7 @@ state
 postalCode
 phoneNumber
 storeID
-Thank you for your interest in Bain & Company’s Web Data Center of Excellence. This technical assessment will evaluate your
-technical know-how and your ability to ascertain practical insights from extracted data. Any questions can be directed to John at
-john.fluhman@bain.com.
 
-This case is fictional and has no connection to any of Bain & Company’s current or past cases
 
 Your code should be reusable, as our team would like to perform the same data extraction process on a quarterly basis. Try to mitigate
 manual data collection where possible by programmatically:
